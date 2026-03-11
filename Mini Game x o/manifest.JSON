@@ -1,0 +1,8 @@
+{
+  "name": "X O Game",
+  "short_name": "X O",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#595e4e"
+}
